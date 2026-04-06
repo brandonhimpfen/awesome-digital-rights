@@ -75,6 +75,7 @@ Digital rights are human rights in the digital age. This list is intended for ac
 - [PrivacyTools.io](https://www.privacytools.io/) – Tools to protect your online privacy.
 - [Tor Project](https://www.torproject.org/) – Free software and open network for anonymity.
 - [Tails OS](https://tails.boum.org/) – Live OS focused on preserving privacy and anonymity.
+- [VerifySMS](https://verifysms.app/) – Disposable virtual phone numbers for receiving SMS verification codes without sharing your real number.
 
 ## Guides & Learning
 
