@@ -66,6 +66,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [The Citizen Lab](https://citizenlab.ca/) – Research on digital espionage, censorship, and surveillance.
 - [NetBlocks](https://netblocks.org/) – Tracks internet disruptions and censorship in real time.
 - [GreatFire](https://en.greatfire.org/) – Monitoring and testing internet censorship in China.
+- [Voidly Censorship Explorer](https://huggingface.co/spaces/emperor-mew/voidly-censorship-explorer) – Interactive Hugging Face Space for querying global censorship data: per-country accessibility, AI services watchlist, censorship index, topic filters.
 
 ## Internet Governance
 
