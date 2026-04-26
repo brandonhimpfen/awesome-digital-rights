@@ -66,6 +66,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [The Citizen Lab](https://citizenlab.ca/) – Research on digital espionage, censorship, and surveillance.
 - [NetBlocks](https://netblocks.org/) – Tracks internet disruptions and censorship in real time.
 - [GreatFire](https://en.greatfire.org/) – Monitoring and testing internet censorship in China.
+- [Voidly Censorship Index](https://voidly.ai/censorship-index) – Real-time global censorship intelligence built on 19.6M live OONI samples and 1.6M historical records across 119+ countries; provides 5,356 citable incidents, ML-based shutdown forecasting, and a CC BY 4.0 open dataset for journalists and researchers.
 
 ## Internet Governance
 
