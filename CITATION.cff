@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome Digital Rights"
+abstract: "A curated list of organizations, tools, research, legislation, advocacy initiatives, educational resources, and open-source projects related to digital rights, online freedoms, privacy, surveillance, internet governance, and civil liberties in the digital age."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-digital-rights"
+keywords:
+  - digital rights
+  - privacy
+  - internet freedom
+  - cybersecurity
+  - surveillance
+  - civil liberties
+  - digital governance
+  - online privacy
+  - open internet
+  - awesome list
