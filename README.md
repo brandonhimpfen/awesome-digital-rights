@@ -1,4 +1,4 @@
-# Awesome Digital Rights [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Digital Rights [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1010384788.svg)](https://doi.org/10.5281/zenodo.19673272)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -93,10 +93,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Privacy](https://github.com/awesomelistsio/awesome-privacy)** – Tools and resources to maintain online privacy.
-- **[Awesome Internet Freedom](https://github.com/awesomelistsio/awesome-internet-freedom)** – Platforms and projects for internet access and resistance to censorship.
-- **[Awesome Open Governance](https://github.com/awesomelistsio/awesome-open-governance)** – Tools and APIs for civic transparency and accountability.
-- **[Awesome Human Rights](https://github.com/awesomelistsio/awesome-human-rights)** – Resources for promoting and defending human rights globally.
+- **[Awesome Privacy](https://github.com/brandonhimpfen/awesome-privacy)** – Tools and resources to maintain online privacy.
+- **[Awesome Internet Freedom](https://github.com/brandonhimpfen/awesome-internet-freedom)** – Platforms and projects for internet access and resistance to censorship.
+- **[Awesome Open Governance](https://github.com/brandonhimpfen/awesome-open-governance)** – Tools and APIs for civic transparency and accountability.
+- **[Awesome Human Rights](https://github.com/brandonhimpfen/awesome-human-rights)** – Resources for promoting and defending human rights globally.
 
 ## Contribute
 
