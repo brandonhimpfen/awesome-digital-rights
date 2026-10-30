@@ -69,6 +69,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [The Citizen Lab](https://citizenlab.ca/) – Research on digital espionage, censorship, and surveillance.
 - [NetBlocks](https://netblocks.org/) – Tracks internet disruptions and censorship in real time.
 - [GreatFire](https://en.greatfire.org/) – Monitoring and testing internet censorship in China.
+- [Flock Locations](https://flocklocations.com/) – Public map and downloadable dataset of Flock Safety and ALPR license plate reader camera locations in the US.
 
 ## Internet Governance
 
